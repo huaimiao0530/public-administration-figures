@@ -46,6 +46,8 @@
 | 主题 | 日期 | 画廊 | 链接 |
 | --- | --- | --- | --- |
 | 新质生产力研究（25 个） | 2024-11-19 | [画廊](gallery/新质生产力25个-2024-11-19.md) | [商业新知镜像](https://www.shangyexinzhi.com/article/23342691.html) |
+| 新质生产力研究 part2（11 个） | 2025-03-09 | [画廊](gallery/新质生产力part2-11个-2025-03-09.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247493648&idx=1&sn=b299bff312b50a8a859400da8873a100) |
+| 新质生产力研究 part3（17 个） | 2025-04-18 | [画廊](gallery/新质生产力part3-17个-2025-04-18.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247495006&idx=1&sn=c21bec1a8f4e4c02c793856efbe1cccf) |
 
 ## 六、其他公众号来源（百川系列）
 
