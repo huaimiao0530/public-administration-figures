@@ -42,9 +42,33 @@
 
 ## 四、英文世界同类资源
 
-- 综述型框架汇编：合作治理框架对比（见《公共管理与政策评论》述评），Bryson, Crosby & Stone (2006, PAR)、Ansell & Gash (2008, JPART)、Emerson, Nabatchi & Balogh (2011) 等经典框架文献；
+### 4.1 框架图 / 逻辑模型工具库（图可直接复用，CC 授权为主）
+
+| 资源 | 链接 | 内容 | 利用方式 |
+| --- | --- | --- | --- |
+| BetterEvaluation | https://www.betterevaluation.org （有 /zh-hans 中文页） | 国际 M&E 框架方法库：鱼骨图、理论变革（ToC）、逻辑框架、影响力路线等，每种方法配示例图与使用指南 | 机制图/因果链类图例的权威英文来源，中文页降低使用门槛 |
+| 英国政府分析职能 ToC 工具包 | https://analysisfunction.civilservice.gov.uk/policy-store/the-analysis-function-theory-of-change-toolkit/ | 英国内阁办公室出品的 Theory of Change 官方模板与示例 | 政策分析类论文画 ToC 图可直接对标政府规范 |
+| Community Tool Box（堪萨斯大学） | https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development | 逻辑模型（logic model）章节，含大量社区治理/公共卫生框架图 | 社区治理、公共服务研究框架图的系统教材级来源 |
+| Theory of Change 社区 | https://www.theoryofchange.org | ToC 资源与案例库 | 补充案例 |
+
+### 4.2 综述型框架汇编（学术文献级）
+
+- 合作治理框架对比（见《公共管理与政策评论》述评），Bryson, Crosby & Stone (2006, PAR)、Ansell & Gash (2008, JPART)、Emerson, Nabatchi & Balogh (2011) 等经典框架文献；
 - JPART/PAR/Governance 等刊的 Review Symposium 与 Annual Review of Political Science / Public Administration 综述；
 - 机构类：APPAM、IRSPM、EGPA 的年度最佳论文名单。
+
+### 4.3 参考数据（非图例，做实证研究时用）
+
+- Blavatnik Index of Public Administration（github.com/blavatnik-index/bipa2024_index）：全球公共治理指标数据集，非图例收藏，实证论文可用。
+
+## 待扩展线索（已定位、未入库）
+
+以下为已检索定位、本仓库尚未收入的期数/来源，按优先级排：
+
+1. 赫尔墨斯【学术图例】未入库期数：协同治理研究（42 个，最大一期）、跨域治理研究（10 个）、新质生产力 part2（11 个）与 part3（17 个，mid=2247495006）、技术路线框架 part1–4（仓库已有 part5）、数字治理 part1、行政负担专题；
+2. 百川MBA / 高校在职硕博导师（MzA4OTI1MjkxMQ）：创新治理研究方向机制图与框架图（mid=2650083649&idx=4）；
+3. 政管学人论文全文转载：如《公共行政评论》论文全文含框架图（例：mp.weixin.qq.com/s/p-Qaxhy68tjR-V-9FIdUpQ），适合按论文逐篇取图；
+4. 镜像站补图：微信原文图片失效时，可从商业新知（shangyexinzhi.com/article/23342691.html 等）、360doc（图床 image109.360doc.com）、大数跨境（cdn.10100.com/article/162975）补抓原图。
 
 ## 五、使用建议
 
