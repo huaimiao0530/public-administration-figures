@@ -21,7 +21,7 @@
 | --- | --- | --- | --- |
 | 电子政务——6 个分析框架 | 2025-08-27 | [画廊](gallery/电子政务6框架-2025-08-27.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247497938&idx=1&sn=955dae99b060ab4d55687c947aeb5399) |
 | 数字治理研究（二，15 个） | 2025-05-16 | [画廊](gallery/数字治理二15个-2025-05-16.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247495510&idx=1&sn=6d0e90dc885c5e566a8b97ed4938562d) |
-| 数字治理研究（一，13 个） | 2024-11-05 | 镜像暂不可达，待补 | [360doc 镜像](https://www.360doc.cn/article/10096_1140923697.html) |
+| 数字治理研究（一，13 个） | 2024-11-12 | [画廊](gallery/数字治理13个-2024-11-12.md) | [原文](https://mp.weixin.qq.com/s/GjhEUhDa_7lSU4H-D0mIbg) |
 | 数字治理与数字（智）化转型研究（12 个） | 2025-06-26 | [画廊](gallery/数字治理与数字化转型12个-2025-06-26.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247496643&idx=1&sn=77561887582ae5f53e1390a366b60394) |
 | 数字治理与行政负担、地方治理改革与政策执行（15 个） | 2025-06-30 | [画廊](gallery/行政负担15个-2025-06-30.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247496780&idx=1&sn=df301b0aca3917e24cfc80b6b8992c4f) |
 | （数字）乡村治理研究（15 个） | 2024-12 | 镜像暂不可达，待补 | [360doc 镜像](http://www.360doc.com/content/24/1202/07/10096_1140923355.shtml) |
@@ -37,7 +37,9 @@
 
 | 主题 | 日期 | 画廊 | 原文 |
 | --- | --- | --- | --- |
-| 研究技术路线框架 part5（含 part1–4 往期） | 2025-06-27 | [画廊](gallery/技术路线框架part5-2025-06-27.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247496685&idx=1&sn=55bc1689e68894965696f76689870bc8) |
+| 研究技术路线框架 part5（9 个） | 2025-06-27 | [画廊](gallery/技术路线框架part5-2025-06-27.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247496685&idx=1&sn=55bc1689e68894965696f76689870bc8) |
+| 研究技术路线框架 part3（11 个） | 2025-04-14 | [画廊](gallery/技术路线part3-11个-2025-04-14.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247494889&idx=1&sn=6ca4394682a16b4904fef9e7b91fcaf8) |
+| 研究技术路线框架 part1（常见的技术路线图）/ part2（精选—技术路线图）/ part4（10 个） | 2024-11 ~ 2025-04 | ⚠️ 原文图片已被作者删除，仅存文字 | [part1](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247489979&idx=1&sn=415706cbab52b3ea7c4d684e509eef87) / [part2](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247490099&idx=1&sn=e898f9e9f1f30313f021e256c1e291de) / [part4](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247494914&idx=1&sn=1fa5eec60284e0555ba5432b7f91347d) |
 | 15 种公管前沿方法与 17 种研究设计类型 | 2025-06-10 | 文字版 | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247496220&idx=1&sn=fc563e075ebc30003e4457f4517042b5) |
 | C.A.R.S 模型指导"引言"写作 + 示范案例 | 2025-07-04 | 文字版 | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247496975&idx=1&sn=854ab7c73c2e55b3d34d7ecd62cf515a) |
 
