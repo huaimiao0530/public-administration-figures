@@ -14,6 +14,7 @@
 | 行动者网络理论的应用研究（12 个） | 2025-07-03 | [画廊](gallery/行动者网络12个-2025-07-03.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247496925&idx=1&sn=ffbe3459f15e0ae1fdf4ec2d10633aff) |
 | 共生、场域、多重制度逻辑、现场主义、同责混构、融合型政府、多线并联等 12 个 | 2025-08-23 | [画廊](gallery/共生场域多重逻辑12个-2025-08-23.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247497865&idx=1&sn=53172556ceb631462e564cb9f6a24c10) |
 | 公共治理研究（16 个） | 2025-04-19 | [画廊](gallery/公共治理16个-2025-04-19.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247495118&idx=2&sn=2aebae250748294ad4fbb33402f7ba14) |
+| 政策理论与应用研究（17 个） | 2024-12-26 | [画廊](gallery/政策理论17个-2024-12-26.md) | [原文](https://mp.weixin.qq.com/s/RWsd59TlEYfIfgwfEIaRqw) |
 
 ## 二、数字治理 / 电子政务
 
