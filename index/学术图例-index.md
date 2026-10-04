@@ -33,6 +33,7 @@
 | 社区治理共同体研究（19 个） | 2025-07-06 | [画廊](gallery/社区治理共同体19个-2025-07-06.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247497052&idx=1&sn=1f037d60e27a96ee090144c551f7d96f) |
 | 城乡融合发展研究（10 个） | 2025-07-04 | 原文已失效（参数错误），待补 | 链接失效 |
 | 乡村振兴研究（20 个） | 2024-11-10 | [画廊](gallery/乡村振兴20个-2024-11-10.md) | [原文](https://mp.weixin.qq.com/s/RvRX7ti8Txq1VllCbumjUg) |
+| 党建引领研究（20 个） | 2024-11-05 | [画廊](gallery/党建引领20个-2024-11-05.md) | [原文](http://mp.weixin.qq.com/s?__biz=MzkxMzQ1MjM5OQ==&mid=2247489608&idx=1&sn=212512b422b5b64e29e8c7abf764cae5) |
 
 ## 四、研究方法与写作
 
